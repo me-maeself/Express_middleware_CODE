@@ -1,0 +1,12 @@
+{
+  "name": "express_middleware_code",
+  "version": "1.0.0",
+  "description": "Crucial:\r - The concept of Middleware\r - Defining custom Middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
